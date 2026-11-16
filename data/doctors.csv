@@ -1,0 +1,51 @@
+doctor_id,doctor_name,specialty,experience_years,rating
+D001,Dr. Roberto Velez,Orthopedics,16,4.6
+D002,Dr. Teresa Wall,Dermatology,22,3.7
+D003,Dr. David Hernandez,Pediatrics,24,3.6
+D004,Dr. Xavier Evans,Dermatology,5,3.7
+D005,Dr. Michael Massey,Pediatrics,23,3.6
+D006,Dr. Ricardo Foster,Orthopedics,7,3.5
+D007,Dr. Lisa Flynn,Orthopedics,22,4.4
+D008,Dr. Dennis Larson,General Medicine,23,3.5
+D009,Dr. Kenneth Schultz,Cardiology,18,4.3
+D010,Dr. Collin Acosta,General Medicine,17,3.8
+D011,Dr. Katie Nelson,Neurology,16,4.4
+D012,Dr. Stephanie Bartlett,Orthopedics,24,5.0
+D013,Dr. Jasmine Ross,Cardiology,4,4.8
+D014,Dr. Jaime Hurley MD,Dermatology,10,3.6
+D015,Dr. Daniel Perez,Orthopedics,15,4.7
+D016,Dr. Veronica Brown,Cardiology,22,3.8
+D017,Dr. Dorothy Walters,Orthopedics,16,4.5
+D018,Dr. Pamela Pratt,Orthopedics,9,3.6
+D019,Dr. Kent Douglas,Neurology,18,3.9
+D020,Dr. Tom Mcguire,Orthopedics,3,4.1
+D021,Dr. Jacqueline Perez,Neurology,11,4.4
+D022,Dr. Rebecca Valentine,Dermatology,19,4.7
+D023,Dr. Kayla Williams,General Medicine,11,4.8
+D024,Dr. Kristin Zuniga,Neurology,17,4.0
+D025,Dr. Jennifer Haley,Neurology,24,4.3
+D026,Dr. Wayne Pace,Neurology,9,4.8
+D027,Dr. Kristin Rodriguez DVM,Dermatology,19,4.3
+D028,Dr. Roger Duncan MD,General Medicine,14,3.7
+D029,Dr. Logan Armstrong,Dermatology,2,3.5
+D030,Dr. Julia Farley,Cardiology,2,3.8
+D031,Dr. Lauren Strickland,Pediatrics,20,4.6
+D032,Dr. Mr. Jonathan Warren,Pediatrics,4,4.7
+D033,Dr. Jeremiah Hall,Dermatology,11,4.0
+D034,Dr. Johnny Haley,Cardiology,8,4.8
+D035,Dr. John Evans,Orthopedics,3,3.6
+D036,Dr. Amy Holt,Neurology,6,4.6
+D037,Dr. Marissa Downs,Neurology,4,4.2
+D038,Dr. Paula Long,Dermatology,16,4.6
+D039,Dr. Matthew Santiago,Cardiology,6,4.3
+D040,Dr. Michele Valenzuela,Neurology,8,3.6
+D041,Dr. Jessica Arellano,General Medicine,11,4.2
+D042,Dr. Kevin Boyd,Pediatrics,8,4.2
+D043,Dr. Jeffrey Mills,Dermatology,5,4.9
+D044,Dr. Andrew Mcgee,Dermatology,16,4.6
+D045,Dr. Kayla Chan,Orthopedics,14,3.6
+D046,Dr. Daniel Weaver,Pediatrics,20,3.7
+D047,Dr. Robert White,General Medicine,11,4.7
+D048,Dr. Brad Reed,Cardiology,22,4.8
+D049,Dr. John Mayo,Orthopedics,13,3.8
+D050,Dr. Lisa Spencer,Neurology,12,4.0
